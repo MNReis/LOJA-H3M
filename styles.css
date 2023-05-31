@@ -9,8 +9,8 @@
 
 body{
     padding-top: 10px;
-    background-color: rgb(20, 20, 20);
-}
+    background-image: url(https://imgur.com/AEmqfSe.png);}
+
   .header{
     font-size: 36px;
     display: flex;
@@ -140,6 +140,10 @@ border-radius: 20px;
 }
 
 .text-t-shirt{
-  color: rgb(179, 255, 0);
+  color: rgb(0, 0, 0);
+  background-color: #fff;
+  border-radius: 5px;
+  padding: 5px;
+  text-align: justify;
 }
 
